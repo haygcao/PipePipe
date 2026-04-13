@@ -85,14 +85,6 @@ Liberapay: https://liberapay.com/PipePipe
 
 Ko-fi: https://ko-fi.com/pipepipe
 
-## YouTube alternatives on other platforms
-
-- [TypeType](https://github.com/Priveetee/TypeType) (Web, self-hosted)
-- [Rinox](https://apps.apple.com/us/app/rinox-peertube-client/id6758531467) (iOS, freemium — add `ptube.app` in Settings > Locations)
-
-*These projects are not affiliated with this project.*
-
-
 ## Community
 
 [PipePipe Wiki](https://priveetee.github.io/Docs-PipePipe) User wiki maintained by [@Priveetee](https://github.com/Priveetee)
@@ -102,3 +94,10 @@ Ko-fi: https://ko-fi.com/pipepipe
 [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) for providing some BiliBili API lists.
 
 [AioiLight](https://github.com/AioiLight) for providing some code of NicoNico service.
+
+
+## YouTube alternatives on other platforms
+
+[TypeType](https://github.com/Priveetee/TypeType) (Web, self-hosted)
+
+<a href="https://apps.apple.com/us/app/rinox-peertube-client/id6758531467" rel="nofollow noreferrer noopener">Rinox</a> (iOS, freemium — add `ptube.app` in Settings > Locations)
