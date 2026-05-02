@@ -1,0 +1,19 @@
+### New Features
+
+- Slightly improved the UI to make PipePipe looks more modern
+- Redesigned the search filter menu 
+
+### Bug Fixes
+
+- Failed to play YT videos if logged in under certain conditions (YouTube)
+- Search results have wrong uploader names under certain conditions (YouTube) 
+- Parse error under certain conditions (YouTube)
+- Failed to extract channel uploaders sometimes (BiliBili)
+- Failed to extract channel details sometimes due to risk control (BiliBili)
+- Description tab doesn't work in livestreams
+- Crash under certain conditions 
+
+### Others
+
+- Improve stability
+
